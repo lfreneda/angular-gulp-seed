@@ -1,0 +1,17 @@
+{
+  "development": {
+    "EnvironmentConfig": { 
+      "baseUrl": "http://localhost:8888/"
+    }
+  },
+  "production": {
+    "EnvironmentConfig": {
+      "baseUrl": "https://eyeofsauron.herokuapp.com/"
+    }
+  },
+  "local": {
+    "EnvironmentConfig": {
+      "baseUrl": "http://localhost:8888/"
+    }
+  }
+}
